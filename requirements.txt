@@ -1,0 +1,8 @@
+###### Requirements without Version Specifiers ######`
+datasets
+transformers
+nltk
+numpy
+pandas
+plotly
+evaluate
